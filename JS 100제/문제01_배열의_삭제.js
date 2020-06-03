@@ -11,4 +11,4 @@ nums = nums.filter(n => {
   return n !== 400 && n !== 500
 });
 
-console.log(nums);
+console.log(nums);  //[ 100, 200, 300 ]
