@@ -30,5 +30,5 @@ class Wizard{
 }
 
 const x = new Wizard(545, 210, 10);
-console.log(x.health, x.mana, x.armor);
-x.attack();
+console.log(x.health, x.mana, x.armor); //545 210 10
+x.attack(); //파이어볼
